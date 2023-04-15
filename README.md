@@ -1,2 +1,4 @@
 # SeatPlanner
-Starter Code for mobile app
+Starter Code for seat planner mobile app 
+
+** To be sold to DELMIA :D
